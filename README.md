@@ -12,4 +12,4 @@ f.e.
 
 `yarn start node`
 
-will tell you how many processing containing the word "node" are currently running
+will tell you how many processing containing the word "node" are currently running (will update every 1 second)
